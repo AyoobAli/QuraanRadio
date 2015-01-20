@@ -1,0 +1,10 @@
+N:\Ayoob\Programming\QuraanRadio\QuraanRadio\bin\Release\QuraanRadio.exe.config
+N:\Ayoob\Programming\QuraanRadio\QuraanRadio\bin\Release\QuraanRadio.exe
+N:\Ayoob\Programming\QuraanRadio\QuraanRadio\bin\Release\QuraanRadio.pdb
+N:\Ayoob\Programming\QuraanRadio\QuraanRadio\obj\Release\Interop.AXVLC.dll
+N:\Ayoob\Programming\QuraanRadio\QuraanRadio\obj\Release\QuraanRadio.csproj.ResolveComReference.cache
+N:\Ayoob\Programming\QuraanRadio\QuraanRadio\obj\Release\QuraanRadio.FrmMain.resources
+N:\Ayoob\Programming\QuraanRadio\QuraanRadio\obj\Release\QuraanRadio.Properties.Resources.resources
+N:\Ayoob\Programming\QuraanRadio\QuraanRadio\obj\Release\QuraanRadio.csproj.GenerateResource.Cache
+N:\Ayoob\Programming\QuraanRadio\QuraanRadio\obj\Release\QuraanRadio.exe
+N:\Ayoob\Programming\QuraanRadio\QuraanRadio\obj\Release\QuraanRadio.pdb

@@ -1,0 +1,16 @@
+C:\Users\AyoobAli\AppData\Local\Temporary Projects\QuraanRadio\bin\Debug\QuraanRadio.exe.config
+C:\Users\AyoobAli\AppData\Local\Temporary Projects\QuraanRadio\bin\Debug\QuraanRadio.exe
+C:\Users\AyoobAli\AppData\Local\Temporary Projects\QuraanRadio\bin\Debug\QuraanRadio.pdb
+C:\Users\AyoobAli\AppData\Local\Temporary Projects\QuraanRadio\obj\Debug\QuraanRadio.csprojResolveAssemblyReference.cache
+C:\Users\AyoobAli\AppData\Local\Temporary Projects\QuraanRadio\obj\Debug\QuraanRadio.FrmMain.resources
+C:\Users\AyoobAli\AppData\Local\Temporary Projects\QuraanRadio\obj\Debug\QuraanRadio.Properties.Resources.resources
+C:\Users\AyoobAli\AppData\Local\Temporary Projects\QuraanRadio\obj\Debug\QuraanRadio.csproj.GenerateResource.Cache
+C:\Users\AyoobAli\AppData\Local\Temporary Projects\QuraanRadio\obj\Debug\QuraanRadio.exe
+C:\Users\AyoobAli\AppData\Local\Temporary Projects\QuraanRadio\obj\Debug\QuraanRadio.pdb
+C:\Users\AyoobAli\AppData\Local\Temporary Projects\QuraanRadio\obj\Debug\QuraanRadio.csproj.ResolveComReference.cache
+C:\Users\AyoobAli\AppData\Local\Temporary Projects\QuraanRadio\obj\Debug\Interop.AXVLC.dll
+N:\Ayoob\Programming\QuraanRadio\QuraanRadio\bin\Debug\QuraanRadio.exe.config
+N:\Ayoob\Programming\QuraanRadio\QuraanRadio\obj\Debug\Interop.AXVLC.dll
+N:\Ayoob\Programming\QuraanRadio\QuraanRadio\obj\Debug\QuraanRadio.csproj.ResolveComReference.cache
+N:\Ayoob\Programming\QuraanRadio\QuraanRadio\obj\Debug\QuraanRadio.exe
+N:\Ayoob\Programming\QuraanRadio\QuraanRadio\obj\Debug\QuraanRadio.pdb
